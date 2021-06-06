@@ -1,0 +1,59 @@
+﻿body{
+    text-align:center; 
+    margin:0; 
+    font-family:Mali, sans-serif; 
+}
+
+h1{
+    margin-top: 0px;
+    font-family: 'Sacremento', cursive; 
+}
+
+h2{
+    font-family: 'Neucha', sans-serif; 
+}
+
+.top-container {
+    background-color: #fbaccc; 
+    margin-top:0px; 
+    position:relative;  
+    padding-top:100px; 
+}
+
+.middle-container{
+     
+    
+}
+
+.bottom-container {
+    }
+
+span{
+    text-decoration: underline;
+    font-size:40px; 
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px; 
+    bottom: 300px; 
+     
+}
+
+.top-cloud {
+    position: absolute;
+    right:300px; 
+    top:50px; 
+    
+  
+}
+
+
+
+body {
+    margin: 0
+}
+
+h1{margin:0}
+
+
